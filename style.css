@@ -1,0 +1,31 @@
+h3:hover
+{
+   background-color:cornsilk;
+   width:fit-content;
+   text-decoration: underline;
+}
+.btn
+{
+    cursor: pointer;
+    position: relative;
+    padding: 0.5rem 1rem;
+    border-radius: 3.75rem;
+    line-height: 2.5rem;
+    font-size: 1.5rem;
+    font-weight: 200;
+    border: 2px solid black;
+    background-image: linear-gradient(180deg, skyblue 0%, white 100%);
+    box-shadow:blue;
+}
+.btn1
+{
+  
+  position:relative;
+  padding: 0.5rem 1rem;
+  border-radius: 0rem 3.75rem 3.75rem 0rem;
+  line-height: 2rem;
+  font-size: 1.3rem;
+  font-weight: 200;
+  border: 2px solid cadetblue;
+  background-color: cadetblue;
+}
